@@ -1,0 +1,29 @@
+[
+  {
+    "question": "If &epsilon; = 0, the equation obtained is called:",
+    "qid": 1,
+    "option_a": "Singular equation",
+    "option_b": "Original equation",
+    "option_c": "Perturbed equation",
+    "option_d": "Unperturbed equation",
+    "correct_option": "d"
+  },
+  {
+    "question": "<div style='margin-left:50px; margin-top:10px;'>  In the perturbation expansion <br> x = x<sub>0</sub> + &epsilon;x<sub>1</sub> <br> the term x<sub>1</sub> represents: </div>",
+    "qid": 2,
+    "option_a": "Error term",
+    "option_b": "First correction term",
+    "option_c": "Initial approximation",
+    "option_d": "Exact solution",
+    "correct_option": "b"
+  },
+  {
+    "question": "The perturbation method provides:",
+    "qid": 3,
+    "option_a": "Exact solution",
+    "option_b": "Numerical solutions only",
+    "option_c": "Approximate analytical solutions",
+    "option_d": "Graphical solutions",
+    "correct_option": "c"
+  }
+]
