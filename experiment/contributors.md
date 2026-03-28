@@ -6,4 +6,4 @@
 ### Developers
 | SNo. | Name | Email | Institute | ID |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 |  | email |  | id |
+| 1 | Contributor_name | email | Indian Institute of Technology Bombay | id |
