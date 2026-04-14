@@ -1,0 +1,38 @@
+[
+  {
+    "question": "The perturbation method is used for",
+    "qid": 1,
+    "option_a": "The equation is linear",
+    "option_b": "The equation contains a small parameter",
+    "option_c": "The equation has large roots",
+    "option_d": "The equation has complex coefficients",
+    "correct_option": "b"
+  },
+  {
+    "question": "The solution is assumed in the form of",
+    "qid": 2,
+    "option_a": "x = x<sub>0</sub>x<sub>1</sub>x<sub>2</sub>",
+    "option_b": "x = x<sub>0</sub>+x<sub>1</sub>",
+    "option_c": "x = x<sub>0</sub> + &epsilon;x<sub>1</sub> + &epsilon;<sup>2</sup>x<sub>2</sub> + ...",
+    "option_d": "x = &epsilon;x<sub>0</sub>",
+    "correct_option": "c"
+  },
+  {
+    "question": "The term x<sub>0</sub> in the perturbation expansion represents:",
+    "qid": 3,
+    "option_a": "Exact root",
+    "option_b": "Root when the small parameter is zero",
+    "option_c": "Largest root",
+    "option_d": "Complex root",
+    "correct_option": "b"
+  },
+  {
+    "question": "When solving using perturbation method, after substitution we:",
+    "qid": 4,
+    "option_a": "Integrate the equation",
+    "option_b": "Factorize the equation",
+    "option_c": "Equate coefficients of powers of &epsilon;",
+    "option_d": "Differentiate the equation",
+    "correct_option": "c"
+  }
+]
