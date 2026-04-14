@@ -9,7 +9,7 @@
     "correct_option": "d"
   },
   {
-    "question": "<div style='margin-left:50px; margin-top:10px;'>  In the perturbation expansion <br> x = x<sub>0</sub> + &epsilon;x<sub>1</sub> <br> the term x<sub>1</sub> represents: </div>",
+    "question": "In the perturbation expansion <br> x = x<sub>0</sub> + &epsilon;x<sub>1</sub> <br> the term x<sub>1</sub> represents: ",
     "qid": 2,
     "option_a": "Error term",
     "option_b": "First correction term",
